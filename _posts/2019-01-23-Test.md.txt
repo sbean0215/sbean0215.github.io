@@ -1,0 +1,6 @@
+---
+layout: 
+title: test posting
+---
+
+this post is for Git Blog test.
