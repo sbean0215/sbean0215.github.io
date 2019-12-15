@@ -16,12 +16,12 @@
 title: Developer B
 email: sbean0215.dev@gmail.com
 description: #>- # this means to ignore newlines until "baseurl:"
-  Android App Developer.
-  개발하며 경험한 것들을 기록합니다.
+  Android Developer "B".
+  경험한 것들의 기록.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ""
 github_username:  sbean0215
+linkedin_username: sbean0215
 
 # Build settings
 markdown: kramdown
