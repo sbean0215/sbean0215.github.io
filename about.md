@@ -72,11 +72,23 @@ permalink: /about/
   </td></tr>
 </table>
 
+#### etc
+
+<table border="1" bgcolor="#F2F2F2">
+  <td>
+    <center>
+      <b>9Dev</b><br/>
+      신림동 모각코 기반 주니어 개발자 모임(Team)<br/>
+      2018.07 ~ ing
+    </center>
+  </td>
+</table>
+
 <br/>
 
 ---
 <h1 style="color:gray;font-size:180%;text-align:right;">
-  <b>Contect</b>
+  <b>Contact</b>
 </h1>
 
 <center>
@@ -91,4 +103,15 @@ permalink: /about/
   <img src="/assets/about_page/telegram_icon.jpeg" style="width:25px;height:25px;">
   <br/>
   <a href="https://t.me/developerBEAN"> @developerBean </a>
+</center>
+
+<br/>
+
+---
+<h1 style="color:gray;font-size:180%;text-align:right;">
+  <b>Etc</b>
+</h1>
+
+<center>
+  <a href="https://www.notion.so/Developer-Bean-09b2b846a036423898395c8be26bde9d"> BEAN's Public Notion Page </a>
 </center>
